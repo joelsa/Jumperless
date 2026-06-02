@@ -1,0 +1,11 @@
+{
+  "pythonVersion": "3.11",
+  "typeCheckingMode": "basic",
+  "stubPath": "typings",
+  "extraPaths": [
+    "typings",
+    "."
+  ],
+  "reportMissingImports": "none",
+  "reportMissingModuleSource": "none"
+}
